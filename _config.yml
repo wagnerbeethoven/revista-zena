@@ -4,7 +4,7 @@ name: Revista Žena
 tagline: "Artes e humanidades"
 description: "Revista cultural independente de artes e humanidades."
 url: "https://wagnerbeethoven.github.io"
-baseurl: "/revistazena_site"
+baseurl: "/revista-zena"
 lang: pt-BR
 timezone: America/Recife
 
